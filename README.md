@@ -2,7 +2,7 @@
 - 👀 I’m interested in Geographic Information System
 - 🌱 I’m currently learning in Geodetic Engineering
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? rofi_ronaa (IG)
+- 📫 How to reach me? rofi.ronaa@gmail.com / rofi_ronaa (IG)
 
 <!---
 rofironaa21/rofironaa21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
